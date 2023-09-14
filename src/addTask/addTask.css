@@ -16,7 +16,6 @@ body{
     border-radius: 4px;
     display: flex;
     flex-direction: column;
-    /* justify-content: center; */
     align-items: center;
     height: 95vh;
     overflow: scroll;
@@ -63,6 +62,9 @@ body{
     }
     .parent-task{
         grid-template-columns: 1fr 1fr;
+    }
+    #main-div{
+        margin: 0;
     }
     #main-div{
         margin: 0;

@@ -23,9 +23,6 @@ input:focus{
 }
 #task-input button:hover{
     cursor: pointer;
-    color: rgb(88, 23, 88);
-    border: 1px solid rgb(88, 23, 88);
-    background-color: #fff;
 }
 
 @media screen and (max-width:600px){
