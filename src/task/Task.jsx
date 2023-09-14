@@ -16,10 +16,10 @@ function Task(props) {
             setStatusOption(true)
         }
     }
-
+    console.log("statusOption", statusOption);
     return (
         <div className="task">
-            <h1>{props.task}</h1>
+            <h1>{props.id+1} : {props.task}</h1>
             <div className="status">
             status:{status}
             </div>

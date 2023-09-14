@@ -30,7 +30,7 @@ input:focus{
 
 @media screen and (max-width:600px){
     #task-input{
-        width: 16rem;
+        width: 17rem;
     }
     #task-input button{
         padding: 0.5rem 1.8rem;
